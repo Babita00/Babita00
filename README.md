@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @Babita00
-Committing with passion, not just because I have to 💖
-- 🌱 I’m currently learning Fullstack Web Development
-- 💬 Ask me about HTML ,CSS, JavaScript, Node.Js, React, C, C++
+# Hola, 👋 I'm Babita Awasthi
+
+![Profile Views](https://komarev.com/ghpvc/?username=Babita00&color=blue)
+
+## About Me :
+
+- 😄 Pronouns: She/Her
+- 🔭 I’m currently working on a Fullstack Web Development project.
+- 🌱 I’m learning more about backend technologies.
+- 👯 I’m looking to collaborate on web development projects.
+- 🤔 I’m looking for help with advanced React and backend development.
+- 💬 Ask me about HTML, CSS, JavaScript, Node.js, React, C, C++.
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I love solving coding challenges and listening to music while coding!
+
+
 
 - ## Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imbabitaawasthi)
