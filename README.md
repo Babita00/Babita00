@@ -26,11 +26,12 @@ Committing with passion, not just because I have to 💖
 ## Developer Babita's GitHub Stats and Streak Stats
 
 ![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Babita00&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babita00)
-
-
 ![GitHub Repos Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Babita00&theme=default)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babita00&theme=default)
+
+
 
 <!---
 Babita00/Babita00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
