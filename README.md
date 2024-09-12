@@ -19,13 +19,18 @@ Committing with passion, not just because I have to 💖
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
+## 🏆 GitHub Profile Summary Card
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babita00&theme=default)
 
-## Developer Babita's GitHub Stats
+
+## Developer Babita's GitHub Stats and Streak Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babita00&show_icons=true)
 
-## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babita00)
 
+
+![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Babita00&theme=default)
+![GitHub Repos Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Babita00&theme=default)
 
 <!---
 Babita00/Babita00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
