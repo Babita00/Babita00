@@ -1,6 +1,6 @@
 # Hola, 👋 I'm Babita Awasthi
 
-![Profile Views](https://komarev.com/ghpvc/?username=Babita00&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Babita00&color=blue)
 
 ## About Me :
 
