@@ -32,9 +32,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Babita00&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Babita00&label=Profile%20Views&color=3&icon=6&pretty=true" />
-</a>
+
 
 ## 🏆 GitHub Profile Summary Card
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babita00&theme=default)
