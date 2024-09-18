@@ -33,18 +33,19 @@
 
 
 ## 🏆 GitHub Profile Summary Card
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babita00&theme=default)
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babita00&theme=radical)
 
 
 ## Developer Babita's GitHub Stats and Streak Stats
 
-![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Babita00&theme=default)
+![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Babita00&theme=dracula)
 
-![GitHub Repos Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Babita00&theme=default)
+![GitHub Repos Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Babita00&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babita00&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babita00&theme=dracula)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babita00&layout=compact&theme=dracula)
 
 
 <!---
