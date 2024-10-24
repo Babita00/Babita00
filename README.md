@@ -1,4 +1,4 @@
-# Hola, 👋 I'm Babita Awasthi
+# Hello, 👋 I'm Babita Awasthi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Babita00&color=blue)
 
