@@ -6,12 +6,11 @@
 
 I'm a passionate Fullstack Web Developer with a strong focus on creating **robust and scalable web applications**. I enjoy tackling complex challenges and continuously expanding my knowledge in **backend technologies** and advanced React concepts.
 
-- **Pronouns:** She/Her
 - **Currently Working On:** A fullstack web development project.
 - **Learning Journey:** Deep diving into advanced backend technologies.
 - **Collaboration:** Open to collaborating on innovative web development projects.
 - **Seeking Help With:** Advanced React patterns and backend development best practices.
-- **Ask Me About:** HTML, CSS, JavaScript, Node.js, React, C, C++.
+- **Ask Me About:** HTML, CSS, JavaScript, Node.js, React, Next.js, C, C++.
 - **Fun Fact:** I love solving coding challenges and listening to music while bringing code to life!
 
 ---
